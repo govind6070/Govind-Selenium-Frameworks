@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="pkgyt.TC6">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+        </methods>
+      </class> <!-- pkgyt.TC6 -->
+      <class name="pkgyt.TC5">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+        </methods>
+      </class> <!-- pkgyt.TC5 -->
+      <class name="pkgyt.TC4">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+          <include name="history"/>
+        </methods>
+      </class> <!-- pkgyt.TC4 -->
+      <class name="pkgyt.TC7">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+        </methods>
+      </class> <!-- pkgyt.TC7 -->
+      <class name="pkgyt.TC3">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+        </methods>
+      </class> <!-- pkgyt.TC3 -->
+      <class name="pkgyt.TC1">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+        </methods>
+      </class> <!-- pkgyt.TC1 -->
+      <class name="pkgyt.TC2">
+        <methods>
+          <include name="Browserlaunch"/>
+          <include name="Browserclose"/>
+        </methods>
+      </class> <!-- pkgyt.TC2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

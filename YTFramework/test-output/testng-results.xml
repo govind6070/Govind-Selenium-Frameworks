@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="95131" started-at="2020-05-31T03:58:11Z" finished-at="2020-05-31T03:59:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test d3ea19eb-1d44-4523-a3b5-85c3709fe145" duration-ms="95131" started-at="2020-05-31T03:58:11Z" finished-at="2020-05-31T03:59:46Z">
+      <class name="pkgyt.TC1">
+        <test-method status="PASS" signature="Browserlaunch()[pri:0, instance:pkgyt.TC1@1554909b]" name="Browserlaunch" is-config="true" duration-ms="10982" started-at="2020-05-31T09:28:11Z" finished-at="2020-05-31T09:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method status="PASS" signature="trending()[pri:0, instance:pkgyt.TC1@1554909b]" name="trending" duration-ms="34965" started-at="2020-05-31T09:28:22Z" finished-at="2020-05-31T09:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trending -->
+        <test-method status="PASS" signature="Browserclose()[pri:0, instance:pkgyt.TC1@1554909b]" name="Browserclose" is-config="true" duration-ms="4374" started-at="2020-05-31T09:28:57Z" finished-at="2020-05-31T09:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+      </class> <!-- pkgyt.TC1 -->
+      <class name="pkgyt.TC2">
+        <test-method status="PASS" signature="Browserlaunch()[pri:0, instance:pkgyt.TC2@3fb6a447]" name="Browserlaunch" is-config="true" duration-ms="11100" started-at="2020-05-31T09:29:01Z" finished-at="2020-05-31T09:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method status="PASS" signature="subscription()[pri:0, instance:pkgyt.TC2@3fb6a447]" name="subscription" duration-ms="29432" started-at="2020-05-31T09:29:12Z" finished-at="2020-05-31T09:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscription -->
+        <test-method status="PASS" signature="Browserclose()[pri:0, instance:pkgyt.TC2@3fb6a447]" name="Browserclose" is-config="true" duration-ms="4237" started-at="2020-05-31T09:29:42Z" finished-at="2020-05-31T09:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+      </class> <!-- pkgyt.TC2 -->
+    </test> <!-- Command line test d3ea19eb-1d44-4523-a3b5-85c3709fe145 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
